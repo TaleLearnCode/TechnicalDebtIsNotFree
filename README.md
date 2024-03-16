@@ -46,4 +46,4 @@ Teams often rack up tech debt without realizing it. Even mature teams might reco
 ## Resources
 There are no additional resources for this presentation.
 
-Email [chadgreen@chadgreen.com](mailto:chadgreen@chadgreen.com?subject=Presentation%20Request:%20Presentation%20Title) to have Chad present this session at your event.
+Email [chadgreen@chadgreen.com](mailto:chadgreen@chadgreen.com?subject=Presentation%20Request:%20Technical%20Debt%20Is%20Not%20Free) to have Chad present this session at your event.
