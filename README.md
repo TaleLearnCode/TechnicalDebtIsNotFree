@@ -26,14 +26,14 @@ Technical debt can derail projects if ignored. Learn practical strategies to man
 
 ## Learning Objectives
 * Understand what technical debt is and how to measure it.
-* Understand how to track technical debt in a way that is meaningful for developers and the business.
+* Understand how to track technical debt meaningfully for developers and the business.
 * Learn ways to combat technical debt.
 
 ## Presentations
 
 | Event | Location | Date | Time | Room | Downloads |
 |-------|:--------:|-----:|-----:|-----:|----------:|
-| [VSLive! San Diego 2025](http://www1.vslive.com/events/san-diego-2025/sessions/thursday/h10-technical-debt.aspx?_gl=1*tbzkbg*_gcl_au*MjA5MzkyOTY2LjE3NDg0NTczNDg.*_ga*MTgxNDAyNjU1Ny4xNzQwNTE2OTc0*_ga_SJVYHSGDDW*czE3NDk3OTQ4MjkkbzE2JGcxJHQxNzQ5Nzk1MTEzJGo0NCRsMCRoMA..) | San Diego, CA | September 11, 2025 | 11:00 AM PDT | TBA | Available Afterwards |
+| [VSLive! San Diego 2025](https://vslive.com/events/san-diego-2025/sessions/thursday/h11-technical-debt.aspx) | San Diego, CA | September 11, 2025 | 11:00 AM PDT | TBA | [Slides](EventMaterials/TechnicalDebtIsNotFree-SanDiego.pdf) |
 | [TechBash 2024](https://www.techbash.com/) | Poco Manor, PA | September 25, 2024 | 10:20 AM EDT | Salons EF | [Slides](EventMaterials/TechnicalDebitIsNotFree-TechBash2024.pdf) |
 | [Michigan Technology Conference](https://www.mitechcon.org/) | Pontiac, MI | March 21, 2024 | 2:30 PM EDT | Cyera Room | [Slides](EventMaterials/TechnicalDebitIsNotFree-MITechCon.pdf) |
 | [Code Mash](https://www.codemash.org/) | Sandusky, OH | January 12, 2024 | 12:15 PM EST | Cyrpess | [Slides](EventMaterials/TechnicalDebtIsNotFree-CodeMash.pdf) |
