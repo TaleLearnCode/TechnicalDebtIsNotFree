@@ -33,7 +33,7 @@ Technical debt can derail projects if ignored. Learn practical strategies to man
 
 | Event | Location | Date | Time | Room | Downloads |
 |-------|:--------:|-----:|-----:|-----:|----------:|
-| [VSLive! San Diego 2025](https://vslive.com/events/san-diego-2025/sessions/thursday/h11-technical-debt.aspx) | San Diego, CA | September 11, 2025 | 11:00 AM PDT | TBA | [Slides](EventMaterials/TechnicalDebtIsNotFree-SanDiego.pdf) |
+| [VSLive! San Diego 2025](https://vslive.com/events/san-diego-2025/sessions/thursday/h11-technical-debt.aspx) | San Diego, CA | September 11, 2025 | 11:00 AM PDT | TBA | [Slides](EventMaterials/H11-TechnicalDebtIsNotFree.pdf) |
 | Jasper Engines & Transmissions (Private Event) | Jasper, IN | September 10, 2025 | 9:00 AM EDT | Track | Available Afterwards |
 | [TechBash 2024](https://www.techbash.com/) | Poco Manor, PA | September 25, 2024 | 10:20 AM EDT | Salons EF | [Slides](EventMaterials/TechnicalDebitIsNotFree-TechBash2024.pdf) |
 | [Michigan Technology Conference](https://www.mitechcon.org/) | Pontiac, MI | March 21, 2024 | 2:30 PM EDT | Cyera Room | [Slides](EventMaterials/TechnicalDebitIsNotFree-MITechCon.pdf) |
